@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+/* Variables */
+:root {
+    --main-color: #f8b281;
+    --secondary-color: #1b1b1b;
+}
+
 html,
 body {
     color: #F5F5F5;
